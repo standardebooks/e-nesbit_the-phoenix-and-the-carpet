@@ -36,3 +36,10 @@ footer{
 [epub|type~="z3998:signature"]{
     font-variant: small-caps;
 }
+
+#chapter-5
+blockquote:nth-of-type(5),
+blockquote:nth-of-type(6){
+    font-variant: small-caps;
+    text-align: center;
+}
