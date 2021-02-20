@@ -3,89 +3,88 @@
 
 /* All dedications */
 section[epub|type~="dedication"]{
-    text-align: center;
+	text-align: center;
 }
 
 section[epub|type~="dedication"] > *{
-    display: inline-block;
-    margin: auto;
-    margin-top: 3em;
-    max-width: 80%;
+	display: inline-block;
+	margin: auto;
+	margin-top: 3em;
+	max-width: 80%;
 }
 
 @supports(display: flex){
-    section[epub|type~="dedication"]{
-        align-items: center;
-        box-sizing: border-box;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        min-height: calc(98vh - 3em);
-        padding-top: 3em;
-    }
+	section[epub|type~="dedication"]{
+		align-items: center;
+		box-sizing: border-box;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		min-height: calc(98vh - 3em);
+		padding-top: 3em;
+	}
 
-    section[epub|type~="dedication"] > *{
-        margin: 0;
-    }
+	section[epub|type~="dedication"] > *{
+		margin: 0;
+	}
 }
 /* End all dedications */
 
 section[epub|type~="dedication"] > p{
-    margin: 3em auto;
-    font-variant: small-caps;
+	margin: 3em auto;
+	font-variant: small-caps;
 }
 
 section[epub|type~="dedication"] blockquote{
-    font-style: italic;
-    display: inline-block;
-    max-width: 80%;
-    text-align: initial;
+	font-style: italic;
+	display: inline-block;
+	max-width: 80%;
+	text-align: initial;
 }
 
 section[epub|type~="dedication"] footer{
-    margin-top: 3em;
+	margin-top: 3em;
 }
 
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:song"] p{
-    text-align: initial;
-    text-indent: 0;
+	text-align: initial;
+	text-indent: 0;
 }
 
 [epub|type~="z3998:poem"] p + p,
 [epub|type~="z3998:song"] p + p{
-    margin-top: 1em;
+	margin-top: 1em;
 }
 
 [epub|type~="z3998:poem"] p > span,
 [epub|type~="z3998:song"] p > span{
-    display: block;
-    text-indent: -1em;
-    padding-left: 1em;
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
 }
 
 [epub|type~="z3998:poem"] p > span + br,
 [epub|type~="z3998:song"] p > span + br{
-    display: none;
+	display: none;
 }
 
 p span.i1{
-    text-indent: -1em;
-    padding-left: 2em;
+	text-indent: -1em;
+	padding-left: 2em;
 }
 
 footer{
-    margin-top: 1em;
-    text-align: right;
+	margin-top: 1em;
+	text-align: right;
 }
 
 [epub|type~="z3998:signature"]{
-    font-variant: small-caps;
+	font-variant: small-caps;
 }
 
-#chapter-5
-blockquote:nth-of-type(5),
+#chapter-5 blockquote:nth-of-type(5),
 blockquote:nth-of-type(6){
-    font-variant: small-caps;
-    text-align: center;
+	font-variant: small-caps;
+	text-align: center;
 }
