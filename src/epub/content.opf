@@ -58,7 +58,7 @@
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/836</dc:source>
-		<dc:source>https://archive.org/details/nesbittheenchantedcastle190607/Nesbit%20-%20The%20Phoenix%20and%20the%20Carpet%20%281903-04%29/mode/2up</dc:source>
+		<dc:source>https://archive.org/details/nesbittheenchantedcastle190607</dc:source>
 		<meta property="se:production-notes">Book scans were not available; scans from the original publication in The Strand Magazine were used instead. Project Gutenberg transcription is likely based on the book because it differs in various ways from the magazine, e.g., different chapter titles, extra paragraphs, or substituted words. Editor-in-Chief ruled that the transcription could be kept as it was.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -72,7 +72,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Viktor Vasnetsov</dc:contributor>
 		<meta property="file-as" refines="#artist">Vasnetsov, Viktor</meta>
-		<meta property="se:name.person.full-name" refines="#arist">Viktor Mikhaylovich Vasnetsov</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Viktor Mikhaylovich Vasnetsov</meta>
 		<meta property="alternate-script" refines="#artist">Ви́ктор Миха́йлович Васнецо́в</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Viktor_Vasnetsov</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n88081971</meta>
