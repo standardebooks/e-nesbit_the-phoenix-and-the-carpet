@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="dedication.xhtml">
+		<ignore>
+			<code>c-010</code>
+			<reason>Footer style is unique to the dedication.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-3.xhtml">
+		<ignore>
+			<code>t-017</code>
+			<reason>Ending punctuation is part of a book title.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-10.xhtml">
+		<ignore>
+			<code>t-043</code>
+			<reason>Words in quotes are interjections, not dialogues.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
