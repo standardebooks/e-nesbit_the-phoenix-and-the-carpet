@@ -60,8 +60,8 @@ section[epub|type~="dedication"] footer{
 [epub|type~="z3998:poem"] p > span,
 [epub|type~="z3998:song"] p > span{
 	display: block;
-	text-indent: -1em;
 	padding-left: 1em;
+	text-indent: -1em;
 }
 
 [epub|type~="z3998:poem"] p > span + br,
@@ -70,8 +70,8 @@ section[epub|type~="dedication"] footer{
 }
 
 p span.i1{
-	text-indent: -1em;
 	padding-left: 2em;
+	text-indent: -1em;
 }
 
 footer{
@@ -87,4 +87,8 @@ footer{
 #chapter-5 blockquote:nth-of-type(6){
 	font-variant: small-caps;
 	text-align: center;
+}
+
+#chapter-5 blockquote:nth-of-type(6) p{
+	text-indent: 0;
 }
