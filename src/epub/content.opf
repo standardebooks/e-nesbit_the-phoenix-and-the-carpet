@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/e-nesbit/the-phoenix-and-the-carpet</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-03-07T17:17:11Z</dc:date>
+		<meta property="dcterms:modified">2021-03-07T17:17:11Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -49,12 +49,12 @@
 		<meta id="collection-1" property="belongs-to-collection">Psammead trilogy</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">Five children encounter another ancient, magical creature and go on adventures around the world with its magic carpet.</dc:description>
+		<dc:description id="description">Five children once again encounter an ancient, magical creature and go on adventures around the world with its magic carpet.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Like other &lt;a href="https://standardebooks.org/ebooks/e-nesbit"&gt;E. Nesbit&lt;/a&gt;’s stories, &lt;i&gt;The Phoenix and the Carpet&lt;/i&gt; was initially published in &lt;i&gt;The Strand Magazine&lt;/i&gt;. While &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/e-nesbit/the-railway-children"&gt;The Railway Children&lt;/a&gt;&lt;/i&gt; or &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/e-nesbit/five-children-and-it"&gt;Five Children and It&lt;/a&gt;&lt;/i&gt; proved more popular, it has still been adapted into three BBC TV series and a film.&lt;/p&gt;
-			&lt;p&gt;The story picks up some time after the events of &lt;i&gt;Five Children and It&lt;/i&gt;. The children are back in London and encounter another ancient, magical creature: this time a noble, beautiful, arrogant, and vain Phoenix. He comes with a magic carpet which the gang uses to go on adventures around the world. Once more, some things don’t go as planned, but there are also opportunities to make others happy.&lt;/p&gt;
-			&lt;p&gt;As a female British author of children stories, E. Nesbit was not a typical early 20th century lady. Described as tomboy during her childhood, she grew up a staunch supporter of democratic socialism in a time when many were crushed under poverty. She was a founding member of the Fabian Society, and dedicated herself to charity work, so much that she almost ended up without any money.&lt;/p&gt;
-			&lt;p&gt;Nesbit’s stories continue to fascinate readers. Her dry wit and respect with which she engaged children ensures that adults can also enjoy them. Her depiction of magic—how it follows rules which must be taught or learned, and the painful consequences when they are forgotten—has influenced the works of other writers such as P.L. Travers, C.S. Lewis, or J.K. Rowling.&lt;/p&gt;
+			&lt;p&gt;Like other &lt;a href="https://standardebooks.org/ebooks/e-nesbit"&gt;E. Nesbit&lt;/a&gt; stories, &lt;i&gt;The Phoenix and the Carpet&lt;/i&gt; was initially published in &lt;i&gt;The Strand Magazine&lt;/i&gt;. While &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/e-nesbit/the-railway-children"&gt;The Railway Children&lt;/a&gt;&lt;/i&gt; or &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/e-nesbit/five-children-and-it"&gt;Five Children and It&lt;/a&gt;&lt;/i&gt; proved more popular, <i>Phoenix</i> has still been adapted into three BBC TV series and a film.&lt;/p&gt;
+			&lt;p&gt;The story picks up some time after the events of &lt;i&gt;Five Children and It&lt;/i&gt;. The children are back in London and encounter another ancient, magical creature: this time a noble, beautiful, arrogant, and vain Phoenix. He comes with a magic carpet which the gang uses to go on adventures around the world. Some things don’t go as planned, but there are still opportunities to make others happy.&lt;/p&gt;
+			&lt;p&gt;As a female British author of children stories, E. Nesbit was not a typical early 20th century woman. Described as tomboy during her childhood, she grew up a staunch supporter of democratic socialism in a time when many were crushed under poverty. She was a founding member of the Fabian Society, and dedicated herself to charity work, so much so that she almost ended up in poverty.&lt;/p&gt;
+			&lt;p&gt;Nesbit’s stories continue to fascinate readers. Her dry wit and respect with which she engages children ensures that adults can also enjoy her tales. Her depiction of magic—how it follows rules which must be taught or learned, and the painful consequences when they are forgotten—has influenced the works of other writers such as P. L. Travers, C. S. Lewis, and J. K. Rowling.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/836</dc:source>
@@ -64,8 +64,8 @@
 
 			Chapter 5, line 80: Typogrify wants to change a trailing non-breaking hyphen into an em-dash. This is incorrect because the hypen deliberately breaks the word Phoenix across two lines.
 		</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">63481</meta>
+		<meta property="se:reading-ease.flesch">80.62</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Phoenix_and_the_Carpet</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/e-nesbit_the-phoenix-and-the-carpet</meta>
 		<dc:creator id="author">E. Nesbit</dc:creator>
@@ -95,6 +95,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://rightword.com.au/david.php</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
