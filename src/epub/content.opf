@@ -59,7 +59,11 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/836</dc:source>
 		<dc:source>https://archive.org/details/nesbittheenchantedcastle190607</dc:source>
-		<meta property="se:production-notes">Book scans were not available; scans from the original publication in The Strand Magazine were used instead. Project Gutenberg transcription is likely based on the book because it differs in various ways from the magazine, e.g., different chapter titles, extra paragraphs, or substituted words. Editor-in-Chief ruled that the transcription could be kept as it was.</meta>
+		<meta property="se:production-notes">
+			Book scans were not available; scans from the original publication in The Strand Magazine were used instead. Project Gutenberg transcription is likely based on the book because it differs in various ways from the magazine, e.g., different chapter titles, extra paragraphs, or substituted words. Editor-in-Chief ruled that the transcription could be kept as it was.
+
+			Chapter 5, line 80: Typogrify wants to change a trailing non-breaking hyphen into an em-dash. This is incorrect because the hypen deliberately breaks the word Phoenix across two lines.
+		</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Phoenix_and_the_Carpet</meta>
