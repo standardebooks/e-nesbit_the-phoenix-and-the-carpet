@@ -72,14 +72,14 @@
 		<meta property="file-as" refines="#author">Nesbit, E.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Edith Nesbit</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/E._Nesbit</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n85097242</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n85097242</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Viktor Vasnetsov</dc:contributor>
 		<meta property="file-as" refines="#artist">Vasnetsov, Viktor</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Viktor Mikhaylovich Vasnetsov</meta>
 		<meta property="alternate-script" refines="#artist">Ви́ктор Миха́йлович Васнецо́в</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Viktor_Vasnetsov</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n88081971</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n88081971</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jo Churcher</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Churcher, Jo</meta>
