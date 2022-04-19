@@ -20,7 +20,7 @@
 	</file>
 	<file path="chapter-10.xhtml">
 		<ignore>
-			<code>t-043</code>
+			<code>t-042</code>
 			<reason>Words in quotes are interjections, not dialogues.</reason>
 		</ignore>
 	</file>
