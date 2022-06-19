@@ -43,7 +43,7 @@
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
-		<meta property="se:subject">Childrens</meta>
+		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta id="collection-1" property="belongs-to-collection">Psammead Trilogy</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
