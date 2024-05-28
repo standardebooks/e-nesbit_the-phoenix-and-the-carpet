@@ -18,10 +18,4 @@
 			<reason>Trailing hyphen is part of the poem's style.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-10.xhtml">
-		<ignore>
-			<code>y-031</code>
-			<reason>Words in quotes are interjections, not dialogues.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
